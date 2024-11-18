@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="origin" fetch="https://github.com/" />
+
+  <default revision="master" remote="origin" sync-j="4" />
+
+  <project name="ZoeyYangRTK/tree_project" path="sources/tree_project" />
+  <project name="ZoeyYangRTK/trifle_project" path="sources/trifle_project" />
+
+</manifest>
